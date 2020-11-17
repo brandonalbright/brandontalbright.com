@@ -4,13 +4,16 @@
   "description": "Hey, Welcome to my project.",
   "main": "index.js",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "^3.4.3"
+    "react-scripts": "^3.4.3",
+    "react-text-mask": "^5.4.3"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "keywords": [],
   "author": "",

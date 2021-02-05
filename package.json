@@ -1,16 +1,17 @@
 {
-  "name": "my_first_react",
+  "name": "brandontalbright_portfolio",
   "version": "1.0.0",
   "description": "Hey, Welcome to my project.",
   "main": "index.js",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.57",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
     "react-text-mask": "^5.4.3"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
